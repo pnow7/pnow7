@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 # Personal-Repository
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JJANG9&fontSize=90)
 
-<a href="https://github.com/guswo4324"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=guswo4324&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="guswo's github stats" /></a>
-
-<a href="https://github.com/guswo4324"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswo4324&layout=compact&theme=nord&hide_border=true" /></a> 
+<a href="https://github.com/guswo4324"><img align="right" style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswo4324&layout=compact&theme=nord&hide_border=true" /></a> 
