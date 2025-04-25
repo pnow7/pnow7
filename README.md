@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **guswo4324/guswo4324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Personal-Repository
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JJANG9&fontSize=90)
+
+<a href="https://github.com/guswo4324"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=guswo4324&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="guswo's github stats" /></a>
+
+<a href="https://github.com/guswo4324"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswo4324&layout=compact&theme=nord&hide_border=true" /></a> 
