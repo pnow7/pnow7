@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=코린이&fontSize=60)
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; width: 100%;">
-  <a href="https://github.com/guswo4324" style="flex: 1;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; width: 100%; margin-top: 20px;">
+  <a href="https://github.com/guswo4324" style="flex: 1; min-width: 48%;">
     <img style="height:170px; width: 100%;" src="https://github-readme-stats.vercel.app/api?username=guswo4324&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="guswo's github stats" />
   </a>
 
-  <a href="https://github.com/guswo4324" style="flex: 1;">
+  <a href="https://github.com/guswo4324" style="flex: 1; min-width: 48%;">
     <img style="height:170px; width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswo4324&layout=compact&theme=nord&hide_border=true" />
   </a>
 </div>
