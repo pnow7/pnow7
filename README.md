@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=코린이&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=96%&height=200&section=header&text=코린이&fontSize=60)
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; margin-top: 20px;">
   <a href="https://github.com/guswo4324" style="flex: 1;">
