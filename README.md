@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; width: 100%; margin-top: 20px;">
   <a href="https://github.com/guswo4324" style="flex: 1; min-width: 48%;">
-    <img style="height:170px; width: 100%;" src="https://github-readme-stats.vercel.app/api?username=guswo4324&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="guswo's github stats" />
+    <img style="height:170px; width: 48%;" src="https://github-readme-stats.vercel.app/api?username=guswo4324&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="guswo's github stats" />
   </a>
 
   <a href="https://github.com/guswo4324" style="flex: 1; min-width: 48%;">
-    <img style="height:170px; width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswo4324&layout=compact&theme=nord&hide_border=true" />
+    <img style="height:170px; width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswo4324&layout=compact&theme=nord&hide_border=true" />
   </a>
 </div>
 
