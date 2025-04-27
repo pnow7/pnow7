@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=코린이&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=코린이&fontSize=40)
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
   <a href="https://github.com/guswo4324">
