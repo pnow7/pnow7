@@ -25,6 +25,11 @@ E0FFFF : LIGHTCYAN
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&text=%20🌱%20%20&height=200&fontSize=40&fontColor=ffffff)
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=87CEEB)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&text=%20🌱%20%20&height=200&fontSize=40&fontColor=ffffff&section=header)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=87CEEB)
+
+
 <!--
 <a href="https://github.com/guswo4324"><img align="left" style="height:170px" src="https://github-readme-stats.vercel.app/api?username=guswo4324&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="guswo's github stats" /></a>
 
@@ -39,7 +44,6 @@ E0FFFF : LIGHTCYAN
   <a href="https://github.com/guswo4324">
     <img style="height:180px; width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswo4324&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" />
   </a>
-
 
   <a href="https://solved.ac/guswo4324/"><img style="height:180px; width: 48%;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=guswo4324"  /></a>
 </div>
