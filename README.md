@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 E0FFFF : LIGHTCYAN
 90EE90 : LIGTHGREEN
 00FF00 : LIME
+87CEEB : SKYBLUE
 -->
 
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🌱&fontSize=40) -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&text=%20🌱%20%20&height=200&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&text=%20🌱%20%20&height=200&fontSize=40&fontColor=ffffff)
 
 <!--
 <a href="https://github.com/guswo4324"><img align="left" style="height:170px" src="https://github-readme-stats.vercel.app/api?username=guswo4324&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="guswo's github stats" /></a>
@@ -44,5 +45,5 @@ E0FFFF : LIGHTCYAN
 
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7FFFD4)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=87CEEB)
 
