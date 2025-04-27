@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/guswo4324"><img align="left" style="height:170px" src="https://github-readme-stats.vercel.app/api?username=guswo4324&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="guswo's github stats" /></a>
 
-<a href="https://solved.ac/guswo4324/">
-    <img align="right" style="height:170px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=guswo4324"  />
-</a>
+<a href="https://solved.ac/guswo4324/"><img align="right" style="height:170px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=guswo4324"  /></a>
+
 <a href="https://github.com/guswo4324"><img align="center" style="height:170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswo4324&layout=compact&theme=nord&hide_border=true" /></a> 
