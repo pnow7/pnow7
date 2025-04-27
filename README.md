@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🌱&fontSize=40) -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=90EE90&text=%20Eungyeol%20%20&height=200&fontSize=40&fontColor=ffffff)
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=90EE90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&text=%20🌱%20%20&height=200&fontSize=40&fontColor=ffffff)
+
 
 
 <a href="https://github.com/guswo4324"><img align="left" style="height:170px" src="https://github-readme-stats.vercel.app/api?username=guswo4324&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="guswo's github stats" /></a>
 
 <a href="https://github.com/guswo4324"><img align="center" style="height:170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswo4324&layout=compact&theme=nord&hide_border=true" /></a> 
 
-
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7FFFD4)
