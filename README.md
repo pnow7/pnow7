@@ -22,7 +22,7 @@ E0FFFF : LIGHTCYAN
 
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🌱&fontSize=40) -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20🌱%20%20&height=200&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20🌱%20%20&height=200&fontSize=40&fontColor=ffffff)
 
 <!--
 <a href="https://github.com/guswo4324"><img align="left" style="height:170px" src="https://github-readme-stats.vercel.app/api?username=guswo4324&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="guswo's github stats" /></a>
