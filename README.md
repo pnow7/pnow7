@@ -15,20 +15,17 @@ Here are some ideas to get you started:
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=코린이&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=코린이&fontSize=50)
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
-  <!-- GitHub Stats -->
   <a href="https://github.com/guswo4324">
     <img style="height:170px;" src="https://github-readme-stats.vercel.app/api?username=guswo4324&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="guswo's github stats" />
   </a>
 
-  <!-- Top Languages -->
   <a href="https://github.com/guswo4324">
     <img style="height:170px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswo4324&layout=compact&theme=nord&hide_border=true" />
   </a>
 
-  <!-- Solved.ac Badge (백준 티어) -->
   <a href="https://solved.ac/guswo4324/">
     <img style="height: auto; max-height: 170px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=guswo4324" />
   </a>
