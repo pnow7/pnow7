@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 7FFFD4 : AQUAMARINE
 E0FFFF : LIGHTCYAN
 90EE90 : LIGTHGREEN
+00FF00 : LIME
 -->
 
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🌱&fontSize=40) -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=90EE90&text=%20🌱%20%20&height=200&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00FF00&text=%20🌱%20%20&height=200&fontSize=40&fontColor=ffffff)
 
 
 
@@ -29,4 +30,4 @@ E0FFFF : LIGHTCYAN
 
 <a href="https://github.com/guswo4324"><img align="center" style="height:170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswo4324&layout=compact&theme=nord&hide_border=true" /></a> 
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=90EE90)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=00FF00)
