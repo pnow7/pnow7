@@ -44,6 +44,7 @@ E0FFFF : LIGHTCYAN
 </div>
 -->
 
+<!-- 
 <div align="center">
   <a href="https://solved.ac/guswo4324/"><img style="height:170px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=guswo4324"  /></a>
 </div>
@@ -52,6 +53,7 @@ E0FFFF : LIGHTCYAN
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guswo4324&show_icons=true&include_all_commits=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswo4324&layout=compact&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff">
 </p>
+-->
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=87CEEB)
 
