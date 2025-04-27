@@ -13,20 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=코린이&fontSize=60)
 
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=코린이&fontSize=40)
-
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
-  <a href="https://github.com/guswo4324">
-    <img style="height:170px;" src="https://github-readme-stats.vercel.app/api?username=guswo4324&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="guswo's github stats" />
+<div style="display: flex; justify-content: flex-start; align-items: flex-start; gap: 20px; width: 100%; flex-wrap: wrap;">
+  
+  <a href="https://github.com/guswo4324" style="flex: 1;">
+    <img style="height:170px; width: 100%;" src="https://github-readme-stats.vercel.app/api?username=guswo4324&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="guswo's github stats" />
   </a>
 
-  <a href="https://github.com/guswo4324">
-    <img style="height:170px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswo4324&layout=compact&theme=nord&hide_border=true" />
+  <a href="https://github.com/guswo4324" style="flex: 1;">
+    <img style="height:170px; width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswo4324&layout=compact&theme=nord&hide_border=true" />
   </a>
 
-  <a href="https://solved.ac/guswo4324/">
+  <a href="https://solved.ac/guswo4324/" style="position: absolute; right: 0; top: 220px;">
     <img style="height: auto; max-height: 170px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=guswo4324" />
   </a>
 </div>
+
