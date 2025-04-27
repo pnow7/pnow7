@@ -45,7 +45,7 @@ E0FFFF : LIGHTCYAN
 -->
 
 <div align="center">
-  <a href="https://solved.ac/guswo4324/"><img style="height:130px; " src="http://mazassumnida.wtf/api/v2/generate_badge?boj=guswo4324"  /></a>
+  <a href="https://solved.ac/guswo4324/"><img style="height:170px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=guswo4324"  /></a>
 </div>
 
 <p>
