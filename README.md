@@ -47,4 +47,6 @@ E0FFFF : LIGHTCYAN
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=87CEEB)
 
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&text=%20🌱%20%20&height=150&fontSize=40&fontColor=ffffff)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=87CEEB&height=50)
 
