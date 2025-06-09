@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <!--
 00FA9A : MEDIUMSPRINGGREEN
 7FFFD4 : AQUAMARINE
@@ -25,7 +26,7 @@ E0FFFF : LIGHTCYAN
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&text=%20🌱%20%20&height=200&fontSize=40&fontColor=ffffff)
 
-<!-- 검은색
+<!-- 색 X
 <a href="https://github.com/guswo4324"><img align="left" style="height:170px" src="https://github-readme-stats.vercel.app/api?username=guswo4324&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="guswo's github stats" /></a>
 
 
