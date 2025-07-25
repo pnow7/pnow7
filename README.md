@@ -33,12 +33,12 @@ E0FFFF : LIGHTCYAN
 <a href="https://github.com/guswo4324"><img align="center" style="height:170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswo4324&layout=compact&theme=nord&hide_border=true" /></a> 
 -->
 
-
+<!-- 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswo4324&layout=compact&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff">
   <a href="https://solved.ac/guswo4324/"><img style="height:170px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=guswo4324" /></a>
 </div>
-
+-->
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
 
