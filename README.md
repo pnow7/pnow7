@@ -22,8 +22,9 @@ E0FFFF : LIGHTCYAN
 87CEEB : SKYBLUE
 -->
 
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🌱&fontSize=40) 
-
+-->
 <p align="center" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/guswo4324/guswo4324/output-3d-contrib/night.svg" />
@@ -31,9 +32,10 @@ E0FFFF : LIGHTCYAN
 	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/guswo4324/guswo4324/output-3d-contrib/day.svg" />
 	</picture>
 </p>
-
+<!--
 ## Tech Stack
 
+<!--
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
@@ -41,9 +43,11 @@ E0FFFF : LIGHTCYAN
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 </p>
+-->
 
-
-<!--![header](https://capsule-render.vercel.app/api?type=waving&color=00FA9A&text=%20🌱%20%20&height=200&fontSize=40&fontColor=ffffff)-->
+<!--
+![header](https://capsule-render.vercel.app/api?type=waving&color=00FA9A&text=%20🌱%20%20&height=200&fontSize=40&fontColor=ffffff)
+-->
 
 <!--
 <a href="https://github.com/guswo4324"><img align="left" style="height:170px" src="https://github-readme-stats.vercel.app/api?username=guswo4324&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="guswo's github stats" /></a>
@@ -53,7 +57,7 @@ E0FFFF : LIGHTCYAN
 <a href="https://github.com/guswo4324"><img align="center" style="height:170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswo4324&layout=compact&theme=nord&hide_border=true" /></a> 
 -->
 
-
+<!--
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswo4324&layout=compact&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff">
   <a href="https://solved.ac/guswo4324/"><img style="height:170px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=guswo4324" /></a>
@@ -61,5 +65,4 @@ E0FFFF : LIGHTCYAN
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
-
-
+-->
