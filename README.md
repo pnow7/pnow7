@@ -24,9 +24,7 @@ E0FFFF : LIGHTCYAN
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🌱&fontSize=40) 
 
-<p align="center" >
-	![github-3d-contribs](https://raw.githubusercontent.com/guswo4324/guswo4324/output-3d-contrib/profile-3d-contrib/github-contribution-grid-snake.svg)
-</p>
+![github-3d-contribs](https://raw.githubusercontent.com/guswo4324/guswo4324/output-3d-contrib/profile-3d-contrib/github-contribution-grid-snake.svg)
 
 ## Tech Stack
 
