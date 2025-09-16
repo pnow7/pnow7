@@ -11,7 +11,7 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v4
-      - uses: Ashish-Bhat/profile-3d-contrib@v1.2
+      - uses: guswo4324/profile-3d-contrib-svg@main
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
