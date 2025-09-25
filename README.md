@@ -1,13 +1,13 @@
 <!-- 펫 농장 -->
-<a href="https://github.com/guswo4324">
-  <img src="https://render.gitanimals.org/lines/guswo4324" width="1000" height="120" />
+<a href="https://github.com/pnow7">
+  <img src="https://render.gitanimals.org/lines/pnow7" width="1000" height="120" />
 </a>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/guswo4324">
-    <img src="https://render.gitanimals.org/farms/guswo4324" width="1200" />
+  <a href="https://github.com/pnow7">
+    <img src="https://render.gitanimals.org/farms/pnow7" width="1200" />
   </a>
 </p>
 
