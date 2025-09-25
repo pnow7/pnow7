@@ -5,9 +5,11 @@
 
 ---
 
-<a href="https://github.com/guswo4324">
-  <img src="https://render.gitanimals.org/farms/guswo4324" />
-</a>
+<p align="center">
+  <a href="https://github.com/guswo4324">
+    <img src="https://render.gitanimals.org/farms/guswo4324" width="1200" />
+  </a>
+</p>
 
 
 <!--잔디 빌딩
