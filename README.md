@@ -11,10 +11,11 @@
   </a>
 </p>
 
+___
 
-<!--잔디 빌딩
 ![](./profile-3d-contrib/profile-night-green.svg)
--->
+
+___
 
 <!-- 웨이브 모양 헤더
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🌱&fontSize=40) 
@@ -37,12 +38,12 @@
 </p>
 -->
 
-<!-- Most uses Laguage & Boj Tier
+<!-- Most uses Laguage & Boj Tier -->
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswo4324&layout=compact&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff">
   <a href="https://solved.ac/guswo4324/"><img style="height:170px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=guswo4324" /></a>
 </div>
--->
+
 
 <!-- 웨이브 모양 푸터
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
