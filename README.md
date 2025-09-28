@@ -2,7 +2,7 @@
 ![](./profile-3d-contrib/profile-night-green.svg)
 -->
 
-<!-- 뱀 게임 -->
+<!-- 뱀 게임 --> 
 <div align="center">
   <img src="https://github.com/pnow7/pnow7/blob/output/github-snake-dark.svg">
 </div>
