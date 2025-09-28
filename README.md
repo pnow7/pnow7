@@ -2,11 +2,18 @@
 ![](./profile-3d-contrib/profile-night-green.svg)
 -->
 
+<!-- 뱀 게임 -->
+<div align="center">
+  <img src="https://github.com/pnow7/pnow7/blob/output/github-contribution-grid-snake.svg">
+</div>
+
+<!-- 유령
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=pnow7&utm_content=line">
     <img src="https://render.gitanimals.org/lines/pnow7" />
   </a>
 </div>
+-->
 
 <div align="center">
   <h2>Tech Stack</h2>
