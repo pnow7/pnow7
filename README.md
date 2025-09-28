@@ -4,7 +4,7 @@
 
 <!-- 뱀 게임 --> 
 <div align="center">
-  <img src="https://github.com/pnow7/pnow7/blob/output/github-snake-dark.svg">
+  <img src="https://github.com/pnow7/pnow7/blob/output/github-contribution-grid-snake-dark.svg">
 </div>
 
 <!-- 유령
