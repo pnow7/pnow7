@@ -2,12 +2,6 @@
 ![](./profile-3d-contrib/profile-night-green.svg)
 -->
 
-<!-- 펫 농장(핑크 슬라임)
-<a href="https://github.com/pnow7">
-  <img src="https://render.gitanimals.org/lines/pnow7" width="1000" height="120" />
-</a>
- -->
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=pnow7&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/pnow7"
@@ -16,14 +10,6 @@
 </a>
 
 ---
-
-<!-- 농장1
-<p align="center">
-  <a href="https://github.com/pnow7">
-    <img src="https://render.gitanimals.org/farms/pnow7" width="1200" />
-  </a>
-</p>
--->
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=pnow7&utm_content=farm">
   <img
