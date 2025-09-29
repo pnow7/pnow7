@@ -2,7 +2,7 @@
 ![](./profile-3d-contrib/profile-night-green.svg)
 -->
 
-<!-- 뱀 게임 --> 
+<!-- 뱀 --> 
 <div align="center">
   <img src="https://github.com/pnow7/pnow7/blob/output/github-contribution-grid-snake-dark.svg">
 </div>
@@ -40,7 +40,7 @@
 <!-- Most uses Laguage & Boj Tier  -->
 <div align="center">
   <h2>🌱 Langauage & Algorithm 🌱</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnow7&layout=compact&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnow7&layout=compact&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff&cache_seconds=3600">
   <a href="https://solved.ac/guswo4324/"><img style="height:170px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=guswo4324" /></a>
 </div>
 
