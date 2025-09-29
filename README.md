@@ -40,7 +40,7 @@
 <!-- Most uses Laguage & Boj Tier  -->
 <div align="center">
   <h2>🌱 Langauage & Algorithm 🌱</h2>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnow7&layout=compact&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnow7&layout=compact&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff">
   <a href="https://solved.ac/guswo4324/"><img style="height:170px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=guswo4324" /></a>
 </div>
 
@@ -51,8 +51,6 @@
     <img src="https://render.gitanimals.org/farms/pnow7" />
   </a>
 </div>
-
-
 
 
 <!-- 
