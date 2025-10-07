@@ -15,10 +15,12 @@
 </div>
 -->
 
+<!-- 
 <div align="center">
   <h2>📚 Tech Stack 📚</h2>
-  
-  <!-- Backend -->
+-->
+
+  <!-- Backend 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -27,21 +29,24 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   
   <br/>
-
-  <!-- Frontend -->
+  -->
+  
+  <!-- Frontend 
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 
 </div>
+-->
 
-<!-- Most uses Laguage & Boj Tier  -->
+<!-- Most uses Laguage & Boj Tier  
 <div align="center">
   <h2>🌱 Langauage & Algorithm 🌱</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnow7&layout=compact&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff&cache_seconds=3600">
   <a href="https://solved.ac/guswo4324/"><img style="height:170px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=guswo4324" /></a>
 </div>
+-->
 
 ---
 
