@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1150px" height="620px" font-family="Consolas, monospace" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200px" height="450px" font-family="Consolas, monospace" font-size="16px">
 
 <style>
   .ascii { fill: #c9d1d9; }
@@ -14,53 +14,53 @@
 <rect width="1200px" height="450px" fill="#161b22" rx="15"/>
 
 <!-- ASCII ART LEFT -->
-<text x="10" y="30" class="ascii">
-<tspan x="10" y="30"> +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ </tspan>
-<tspan x="10" y="50"> +++++++++++++++++++++++++++*@@@@%%@@@@@@@@@@@@%*+++##*+=+++++++++++++++++++ </tspan>
-<tspan x="10" y="70"> +++++++++++++++++++++++@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#++++++++++++++++ </tspan>
-<tspan x="10" y="90"> +++++++++++++++++++=*@@@@@@+++=+*@@@@#=====#@@@@@@#@@@@@@@@@%=+++++++++++++ </tspan>
-<tspan x="10" y="110"> +++++++++++++++++++%*===+#%%##%%#+====+======+*#%%###*+=*@@@@%+++++++++++++ </tspan>
-<tspan x="10" y="130"> ++++++++++++++++++%+=+%++=+=====++*%=====+*#+=+=======+=*#+*@@@%+++++++++++ </tspan>
-<tspan x="10" y="150"> ++++++++++++++++=*%+=+++@@@@@@@@@@@+=++==+++=+#@@@@@@@@@*+==#@@@@*+++++++++ </tspan>
-<tspan x="10" y="170"> ++++++++%%+======++==*@@@@@#:-:*@@@@%=+==+++@@@@@#-::%@@@@#=+@@@@@*++++++++ </tspan>
-<tspan x="10" y="190"> ++++*%++++========+++*@@@@@@**%@@@@@*=++++++@@@@@+===%@@@@%==+@@@@@++++++++ </tspan>
-<tspan x="10" y="210"> +++%+=================++#@@@@@@@@#+======+==++%@@@@@@@@@#+=+++#@%*++#%*++++ </tspan>
-<tspan x="10" y="230"> ++%+=============================================================+====+#*++ </tspan>
-<tspan x="10" y="250"> ++@=++=================================================================+%++ </tspan>
-<tspan x="10" y="270"> ++#*=+====================================================+==+========++#++ </tspan>
-<tspan x="10" y="290"> +++*#===================++===+=========================++#@%*#%*+++++*%++++ </tspan>
-<tspan x="10" y="310"> +++++*#+++=+=========+=++%@@@+===========++=+=++#%%%##***#######%%*++++++++ </tspan>
-<tspan x="10" y="330"> ++++++=+@%%*+==+======+@@@@@%==++==++#%%%%##*######################@+++++++ </tspan>
-<tspan x="10" y="350"> +++++++%#***########%%@@@@%#####*#################################*@*++++++ </tspan>
-<tspan x="10" y="370"> +++++++#%***#######################################################@+++++++ </tspan>
-<tspan x="10" y="390"> ++++++++@#*########################################################@+++++++ </tspan>
-<tspan x="10" y="410"> ++++++++@######%######################################**##########@++++++++ </tspan>
-<tspan x="10" y="430"> ++++++++@######%######################################**##########@++++++++ </tspan>
+<text x="5" y="30" class="ascii">
+<tspan x="5" y="30"> +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ </tspan>
+<tspan x="5" y="50"> +++++++++++++++++++++++++*@@@@%%@@@@@@@@@@@@%*+++##*+=+++++++++++++++++ </tspan>
+<tspan x="5" y="70"> +++++++++++++++++++++@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#++++++++++++++ </tspan>
+<tspan x="5" y="90"> +++++++++++++++++=*@@@@@@+++=+*@@@@#=====#@@@@@@#@@@@@@@@@%=+++++++++++ </tspan>
+<tspan x="5" y="110"> +++++++++++++++++%*===+#%%##%%#+====+======+*#%%###*+=*@@@@%+++++++++++ </tspan>
+<tspan x="5" y="130"> ++++++++++++++++%+=+%++=+=====++*%=====+*#+=+=======+=*#+*@@@%+++++++++ </tspan>
+<tspan x="5" y="150"> ++++++++++++++=*%+=+++@@@@@@@@@@@+=++==+++=+#@@@@@@@@@*+==#@@@@*+++++++ </tspan>
+<tspan x="5" y="170"> ++++++%%+======++==*@@@@@#:-:*@@@@%=+==+++@@@@@#-::%@@@@#=+@@@@@*++++++ </tspan>
+<tspan x="5" y="190"> ++*%++++========+++*@@@@@@**%@@@@@*=++++++@@@@@+===%@@@@%==+@@@@@++++++ </tspan>
+<tspan x="5" y="210"> +%+=================++#@@@@@@@@#+======+==++%@@@@@@@@@#+=+++#@%*++#%*++ </tspan>
+<tspan x="5" y="230"> %+=============================================================+====+#* </tspan>
+<tspan x="5" y="250"> @=++=================================================================+% </tspan>
+<tspan x="5" y="270"> #*=+====================================================+==+========++# </tspan>
+<tspan x="5" y="290"> +*#===================++===+=========================++#@%*#%*+++++*%++ </tspan>
+<tspan x="5" y="310"> +++*#+++=+=========+=++%@@@+===========++=+=++#%%%##***#######%%*++++++ </tspan>
+<tspan x="5" y="330"> ++++=+@%%*+==+======+@@@@@%==++==++#%%%%##*######################@+++++ </tspan>
+<tspan x="5" y="350"> +++++%#***########%%@@@@%#####*#################################*@*++++ </tspan>
+<tspan x="5" y="370"> +++++#%***#######################################################@+++++ </tspan>
+<tspan x="5" y="390"> ++++++@#*########################################################@+++++ </tspan>
+<tspan x="5" y="410"> ++++++@######%######################################**##########@++++++ </tspan>
+<tspan x="5" y="430"> ++++++@######%######################################**##########@++++++ </tspan>
 </text>
 
 <!-- TEXT INFO RIGHT -->
 <text x="420" y="30" fill="#c9d1d9">
 
-  <tspan x="690" y="30">pnow7</tspan> ————————————————————————————————————————————
+  <tspan x="650" y="30">pnow7</tspan> ————————————————————————————————————————————
 
-  <tspan x="690" y="55" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">Windows 11</tspan>
-  <tspan x="690" y="80" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">27 years</tspan>
-  <tspan x="690" y="105" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Republic of Korea</tspan>
-  <tspan x="690" y="130" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Full-Stack Developer</tspan>
-  <tspan x="690" y="155" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">IntelliJ IDEA, VSCode</tspan>
-  <tspan x="690" y="180" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Java, Spring Boot</tspan>
-  <tspan x="690" y="205" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">React, FastAPI, MySQL</tspan>
-  <tspan x="690" y="230" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Korean, English</tspan>
-  <tspan x="690" y="255" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">AI Model Tweaking, Game Dev</tspan>
-  <tspan x="690" y="280" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Custom PCs, Undervolting</tspan>
+  <tspan x="640" y="55" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">Windows 11</tspan>
+  <tspan x="640" y="80" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">27 years</tspan>
+  <tspan x="640" y="105" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Republic of Korea</tspan>
+  <tspan x="640" y="130" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Full-Stack Developer</tspan>
+  <tspan x="640" y="155" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">IntelliJ IDEA, VSCode</tspan>
+  <tspan x="640" y="180" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Java, Spring Boot</tspan>
+  <tspan x="640" y="205" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">React, FastAPI, MySQL</tspan>
+  <tspan x="640" y="230" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Korean, English</tspan>
+  <tspan x="640" y="255" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">AI Model Tweaking, Game Dev</tspan>
+  <tspan x="640" y="280" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Custom PCs, Undervolting</tspan>
 
-  <tspan x="690" y="305">- Contact</tspan> —————————————————————————————————————————
-  <tspan x="690" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">phyunjae7333@gmail.com</tspan>
+  <tspan x="640" y="305">- Contact</tspan> —————————————————————————————————————————
+  <tspan x="640" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">phyunjae7333@gmail.com</tspan>
 
-  <tspan x="690" y="355">- GitHub Stats</tspan> ————————————————————————————————————
-  <tspan x="690" y="380" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">12</tspan>
-  <tspan x="690" y="405" class="cc">. </tspan><tspan class="key">Stars</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">13</tspan>
-  <tspan x="690" y="430" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">2970</tspan>
+  <tspan x="640" y="355">- GitHub Stats</tspan> ————————————————————————————————————
+  <tspan x="640" y="380" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">12</tspan>
+  <tspan x="640" y="405" class="cc">. </tspan><tspan class="key">Stars</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">13</tspan>
+  <tspan x="640" y="430" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">2973</tspan>
 </text>
 
 </svg>
