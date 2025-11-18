@@ -1,6 +1,5 @@
-<p align="left">
+<pre style="font-size: 13px; line-height: 12px;">
 
-<pre style="font-size: 14px; line-height: 12px;">
 
 %#####*******+++++++%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@%%%@@@@@@@@@@@@*#@#%@@@@          
 ##***************###@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@@@#***++++=======+=+++++++*#+#@*%%%@@          
@@ -38,20 +37,14 @@
 ::::::::::::::::::::::::::::::-**+#@%############%##%%%#%%%#--=+-:::::::::::::::::::::::-          
 ::::::::::::::::::::::::::::=*##%%%%######%%%%#%#####*+=-::::---::::::::::::::::::::::::-          
 ::::::::::::::::::::::::::=##############**+=--:::::::::::::::::::::::::::::::::::::::::-          
-</pre>
 
-</p>
-
-<p align="left">
-
-```
 pnow7 -------------------------------------------------------------
 
 OS: .......................... Windows 11
 Uptime: ...................... 27 years
 Host: ........................ Republic of Korea
-Kernel: ...................... Full-Stack Developer 
-IDE: ......................... IntelliJ IDEA, VSCode
+Kernel: ...................... Full-Stack Developer
+IDE: ........................ IntelliJ IDEA, VSCode
 
 Languages.Programming: ...... Java, Spring Boot, Python, JavaScript
 Languages.Computer: ......... React, FastAPI, MySQL, Docker, Linux
@@ -61,13 +54,11 @@ Hobbies.Software: ........... AI Image/Model Tweaking, Game Dev (LibGDX)
 Hobbies.Hardware: ........... Custom PCs, Undervolting, Optimization
 
 Contact -----------------------------------------------------------
-Email.Personal: .............. phyunjae7333@gmail.com
-
+Email.Personal: ............. pnowjzero73@gmail.com
 
 GitHub Stats ------------------------------------------------------
 Repos: ....................... 12
 Stars: ....................... 13
-Commits: ..................... 2962
-```
+Commits: ..................... 2963
 
-</p>
+</pre>
