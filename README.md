@@ -47,11 +47,11 @@
 ```
 pnow7 -------------------------------------------------------------
 
-OS: .......................... Windows 11, Android 14
-Uptime: ...................... 25 years
+OS: .......................... Windows 11
+Uptime: ...................... 27 years
 Host: ........................ Republic of Korea
-Kernel: ...................... Software Developer / AI Integration
-IDE: ........................ IntelliJ IDEA, VSCode, PyCharm
+Kernel: ...................... Full-Stack Developer 
+IDE: ......................... IntelliJ IDEA, VSCode
 
 Languages.Programming: ...... Java, Spring Boot, Python, JavaScript
 Languages.Computer: ......... React, FastAPI, MySQL, Docker, Linux
@@ -61,22 +61,13 @@ Hobbies.Software: ........... AI Image/Model Tweaking, Game Dev (LibGDX)
 Hobbies.Hardware: ........... Custom PCs, Undervolting, Optimization
 
 Contact -----------------------------------------------------------
-Email.Personal: ............. your.email@example.com
-Discord: ..................... (optional)
-LinkedIn: .................... (optional)
+Email.Personal: .............. phyunjae7333@gmail.com
+
 
 GitHub Stats ------------------------------------------------------
 Repos: ....................... 12
 Stars: ....................... 13
-Commits: ..................... 2960
+Commits: ..................... 2962
 ```
 
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pnow7/update-readme/main/templates/dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pnow7/update-readme/main/templates/light.svg" />
-    <img alt="GitHub Stats" src="https://raw.githubusercontent.com/pnow7/update-readme/main/templates/light.svg" />
-  </picture>
 </p>
