@@ -2,12 +2,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200px" height="450px" font-family="Consolas, monospace" font-size="16px">
 
 <style>
-  .ascii { fill: #c9d1d9; }
-  .key { fill: #be95ff; }
-  .value { fill: #82cfff; }
-  .addColor { fill: #3ddbd9; }
-  .delColor { fill: #ff7eb6; }
-  .cc { fill: #616e7f; }
+  .ascii { fill: #CFCFCF; }
+  .key { fill: #FD971F; }
+  .value { fill: #abc6ffff; }
+  .addColor { fill: #66D9EF; }
+  .delColor { fill: #F92672; }
+  .cc { fill: #abc6ffff; }
+
   text, tspan { white-space: pre; }
 </style>
 
@@ -60,7 +61,7 @@
   <tspan x="640" y="355">- GitHub Stats</tspan> —————————————————————————————————————————————
   <tspan x="640" y="380" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ................................................ </tspan><tspan class="value">12</tspan>
   <tspan x="640" y="405" class="cc">. </tspan><tspan class="key">Stars</tspan>:<tspan class="cc"> ................................................ </tspan><tspan class="value">13</tspan>
-  <tspan x="640" y="430" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ............................................ </tspan><tspan class="value">3008</tspan>
+  <tspan x="640" y="430" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ............................................ </tspan><tspan class="value">3016</tspan>
 </text>
 
 </svg>
