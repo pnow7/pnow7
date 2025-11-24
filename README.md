@@ -31,6 +31,12 @@ Coding Destroyer
 <br>
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pnow7&theme=dracula&no-frame=true&row=1&column=6&margin-w=15&title=-Followers" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pnow7&theme=tokyonight&hide_border=true&border_radius=10"/>
 </div>
 
@@ -39,12 +45,6 @@ Coding Destroyer
 <div align="center">
   <img height="195" src="https://github-readme-stats.vercel.app/api?username=pnow7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnow7&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&border_radius=10"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pnow7&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=15" />
 </div>
 
 <!-- <div align="center">
