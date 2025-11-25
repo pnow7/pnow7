@@ -9,17 +9,11 @@
   </pre>
 </div>
 
----
-
-<br>
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/pnow7/pnow7/main/profile.svg" />
 </p>
 
-<br>
-
----
+<br> -->
 
 <!-- 스킬셋 - 풀스택 괴물 인증 -->
 <div align="center">
@@ -38,7 +32,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pnow7&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=pnow7&theme=tokyonight&hide_border=true&border_radius=10" />
 </div>
 
 <br>
