@@ -23,7 +23,7 @@
 <div align="center">
   <h2>⚡ Tech Stack</h2>
   <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin-top: 10px;">
-    <img src="https://skillicons.dev/icons?i=react,vite,js,ts,tailwind,html,css,java,spring,fastapi,python,mysql,docker,git,github,postman&perline=9&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,vite,js,tailwind,html,css,java,spring,fastapi,python,mysql,docker,git,github,postman&perline=9&theme=dark" />
   </div>
 </div>
 
