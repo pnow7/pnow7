@@ -33,18 +33,13 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=pnow7&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnow7&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&border_radius=10"/>
 </div>
 
-<br>
-
-<div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=pnow7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnow7&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&border_radius=10"/>
-</div>
 
 <!-- <div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api/wakatime?username=pnow7&layout=compact&theme=tokyonight&hide_border=true" />
-</div> -->
+</div>  -->
 
 <br>
 
