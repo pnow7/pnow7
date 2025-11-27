@@ -58,9 +58,9 @@
 </div>
 
 
-<!-- <div align="center">
+<div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api/wakatime?username=pnow7&layout=compact&theme=tokyonight&hide_border=true" />
-</div>  -->
+</div>
 
 <br>
 
