@@ -2,18 +2,17 @@
 
   <h1>
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" width="40" height="40" />
-    Hi! I'm HyeonJae Park
+    Hi! I'm HyeonJae
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" width="40" height="40" />
   </h1>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=5000&color=8B8B8B&center=true&vCenter=true&width=700&lines=A+heavy-ass+developer+who+runs+pure+curiosity;and+delicious+iced+Americano" alt="Typing SVG" />
   
   <br>
-
-  <img src="https://img.shields.io/badge/Status-Sitting%2099.9%25%20of%20the%20time-orange?style=flat-square" />
+  
   <img src="https://img.shields.io/badge/Hip%20Width-Growing%20exponentially-critical?style=flat-square" />
   <img src="https://img.shields.io/badge/Curiosity%20Level-OVER%209000-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cardio-Standing%20up%20once%20a%20day-red?style=flat-square" />
+  
   
 </div>
 
