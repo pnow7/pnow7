@@ -6,7 +6,7 @@
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" width="40" height="40" />
   </h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=5000&color=8B8B8B&center=true&vCenter=true&width=700&lines=A+heavy-ass+developer+who+runs+pure+curiosity;and+delicious+iced+Americano" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=5000&color=8B8B8B&center=true&vCenter=true&width=700&lines=A+heavy-ass+developer+who+runs+pure+curiosity;" alt="Typing SVG" />
   
   <br>
   
