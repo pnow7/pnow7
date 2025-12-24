@@ -5,6 +5,6 @@
 
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=pnow7&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/pnow7" width="700" height="250"/>
+    <img src="https://render.gitanimals.org/farms/pnow7" width="800" height="280"/>
   </a>
 </div>
