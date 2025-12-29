@@ -7,3 +7,6 @@
     <img src="https://render.gitanimals.org/farms/pnow7" width="1200" height="300" />
   </a>
 </div>
+
+**2025.12.26 ~ **
+Started my journey as a professional IT developer.
