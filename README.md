@@ -8,5 +8,7 @@
   </a>
 </div>
 
-**2025.12.26 ~ **
-Started my journey as a professional IT developer.
+---
+
+<p><strong>🌱 2025.12.26 ~</strong><br>
+Started my journey as a professional IT developer.</p>
